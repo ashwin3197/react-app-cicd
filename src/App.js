@@ -12,7 +12,7 @@ export default function App() {
   
   return (
     <div className="App">
-      Hello React app
+      Hello React app CICD
       <div>
         <input type="text" placeholder="name" onChange={(e) => setName(e.target.value)} value={name} />
         <input type="password" placeholder="password" onChange={(e) => setPassword(e.target.value)} value={password} />

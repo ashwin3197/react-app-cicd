@@ -9,7 +9,7 @@ export default function App() {
   const handelClick = () => {
 
   }
-  console.log(name, password, "name")
+  
   return (
     <div className="App">
       Hello React app
